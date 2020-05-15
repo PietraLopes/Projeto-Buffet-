@@ -1,2 +1,2 @@
-# Projeto-Buffet-
-Projeto de desenvolvimento para auxiliar o buffet 
+## Projeto-Buffet
+Projeto relacionado ao desenvolvimento de buffet.
